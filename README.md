@@ -1,7 +1,7 @@
 # Recruitment-Matching
 program reads data from an excel sheet and returns a .txt file showing PNMs that sisters want to be matched with during recruitment
 
-Goal : return list of PNMs linked to any sister who requested to match with them with the rank that the sister put them as
+Goal : make matching easier by return list of PNMs linked to any sister who requested to be matched with the PNM
 
 Input Data : excel sheet populated with data from a Google Form.  The form is filled out by sisters and they enter PNMs that they enjoyed talking to during the week in order of who they would most prefer to talk to during pref round.
 
